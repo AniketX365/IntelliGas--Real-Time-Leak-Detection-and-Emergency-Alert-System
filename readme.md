@@ -66,7 +66,6 @@ Gas Sensor → Arduino → Alerts & Mitigation
 - Samiksha Mendhe
 - Shravani Pande
 - Niket Dabhade
-- Subodh Meshram
 - Shreyash Kude
 
 ## Guide
